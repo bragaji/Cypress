@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "10": "^0.0.1",
-    "cypress": "^10.4.0"
+    "cypress": "^10.11.0"
   }
 }
